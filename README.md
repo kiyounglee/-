@@ -4,13 +4,16 @@
   3. 아이템별 수량 add / minus
   4. 
 
+## Server
+  1. Express or what??
+
 ## Database
   1. CouchDB 사용
   2. DATA 구조 만들기
   3. 
   
 ## Network
-  1. 내 PC를 서버로 만들기
+  1. 내 PC를 서버로 만들기 --> 잘된다. 개별 아이피로 접근 가능
   2. 
   
 ## Programming
