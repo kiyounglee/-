@@ -11,7 +11,9 @@
   1. CouchDB 사용
   2. DATA 구조 만들기
   3. 
-  
+
+## Frontend
+
 ## Network
   1. 내 PC를 서버로 만들기 --> 잘된다. 개별 아이피로 접근 가능
   2. 
